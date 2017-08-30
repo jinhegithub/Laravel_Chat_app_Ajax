@@ -1,5 +1,5 @@
 # Laravel_Chat_app_Ajax
-This app is a real time chat app with notifications based on php laravel 5.4 framework. For frontend I used Jquery and bootstrap and Ajax for transferring data between frontend and backend. 
+This app is a real time chat app with notifications with ability to change your online status and see old messages based on php laravel 5.4 framework. For frontend Jquery, bootstrap and Ajax for transferring data between frontend and backend. comes with very basic responsive design.
 
 
 <h2> Welcome </h2>

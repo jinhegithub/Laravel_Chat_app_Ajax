@@ -1,8 +1,10 @@
 # Laravel_Chat_app_Ajax
-This app is based on php laravel 5.4 framework. For frontend I used Jquery and bootstrap and Ajax for transferring data between frontend and backend. 
+This app is a real time chat app with notifications based on php laravel 5.4 framework. For frontend I used Jquery and bootstrap and Ajax for transferring data between frontend and backend. 
 
-<h3> Welcome </h3>
-Installation
+
+<h2> Welcome </h2>
+
+<h2> Installation </h2>
 
 1- Download chatct.zip and unziped (this the original project folder) and use it as any laravel 5.4 project you have
 2- Migrate al the table.

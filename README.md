@@ -3,11 +3,12 @@ This app is a real time chat app with notifications based on php laravel 5.4 fra
 
 
 <h2> Welcome </h2>
-
+<br>
+<br>
 <h2> Installation </h2>
 <br>
 1- Download chatct.zip and unziped (this the original project folder) and use it as any laravel 5.4 project you have<br>
-2- Migrate al the table.<br>
+2- Migrate all the tables.<br>
 3- Run the server. <br>
 <br>
 <br>
